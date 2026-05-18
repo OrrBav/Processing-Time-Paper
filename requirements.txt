@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scirpy
+anndata
+logomaker
+biopython
+statsmodels
+networkx
+tqdm
