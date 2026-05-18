@@ -2,7 +2,7 @@
 
 Reproducibility repository accompanying the manuscript:
 
-> *[MANUSCRIPT TITLE]*
+> *Time Is on Our Side: Utilizing Delays in Sample Processing to Identify a Core T Cell Repertoire Subset*
 
 This repository contains the analysis notebook and code used to reproduce the main and supplementary analyses and figures presented in the manuscript.
 
