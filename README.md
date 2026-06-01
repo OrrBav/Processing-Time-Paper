@@ -2,8 +2,7 @@
 
 Reproducibility repository accompanying the manuscript:
 
-> *Time Is on Our Side: Utilizing Delays in Sample Processing to Identify a Core T Cell Repertoire Subset*
-
+> *CORE clonotypes: a reproducible structural component of the peripheral TCR repertoire revealed through variation in blood processing times*
 This repository contains the analysis notebook and code used to reproduce the main and supplementary analyses and figures presented in the manuscript.
 
 ## Repository contents
